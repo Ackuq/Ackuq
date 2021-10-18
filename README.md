@@ -11,3 +11,4 @@ I mostly work on open source web development with JavaScript, but also other typ
 My primary hobby/side project is Partiguiden, which is a web platform used for getting up-to-date with the politics in Sweden, new features are added constantly, check it out!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ackuq&layout=compact)
+![Ackuq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackuq)
