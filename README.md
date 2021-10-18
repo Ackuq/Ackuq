@@ -12,4 +12,3 @@ My primary hobby/side project is Partiguiden, which is a web platform used for g
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ackuq&layout=compact)
 ![Ackuq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ackuq&count_private=true)
-)
