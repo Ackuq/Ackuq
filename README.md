@@ -2,7 +2,7 @@
 
 ## Who am I
 
-I am a Swedish student currently studying for my master's degree in software engineering of distributed systems at KTH. I work part time as a software developer consultant but also likes to work on hobby projects in my free time. Also a Nintendo nerd 🎮.
+I am a Swedish software developer consultant that likes to work on hobby projects in my free time. Also a Nintendo nerd 🎮.
 
 ## What I do
 
